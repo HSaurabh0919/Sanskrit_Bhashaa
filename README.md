@@ -15,5 +15,5 @@ Resources and tools are also mentioned which can be used for processing NLP rela
 
 **Youtube Videos regarding Sanskrit**
 
-1.[Sanskrit Language History and Origin](https://www.youtube.com/watch?v=YLVY66bzhzs).
-2.[The Untold Story of Sanskrit](https://www.youtube.com/watch?v=YLVY66bzhzs)
+1. [Sanskrit Language History and Origin](https://www.youtube.com/watch?v=YLVY66bzhzs).
+2. [The Untold Story of Sanskrit](https://www.youtube.com/watch?v=YLVY66bzhzs)
